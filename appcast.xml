@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Firethoughts</title>
+        <item>
+            <title>0.8</title>
+            <pubDate>Fri, 13 Nov 2026 21:28:05 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- A short welcome shows you how to summon Firethoughts from any app with ⌥ Space.
+- Small tips show up the first time you meet a feature. Turn them off in Settings.
+- When a new version is ready, an orange dot appears on the spark icon. Right-click it to install.
+]]></description>
+            <enclosure url="https://github.com/xyiencefiction/firethoughts-releases/releases/download/v0.8/Firethoughts-0.8.dmg" length="9535331" type="application/octet-stream" sparkle:edSignature="DuuH3Rof7I1bZZURDAG7ASwCLwERYRQEzRlkjKjdp2rKveP9F3S1ksBy0BVLuXbkEnzY4e+s16PTBe4E9YaSAQ=="/>
+        </item>
+    </channel>
+</rss>
