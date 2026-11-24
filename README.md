@@ -57,9 +57,9 @@ the "Not Opened" message again, and your notes stay where they are.
   (or if you tick "Automatically download and install updates").
 - The chat, once you set it up, sends what you write, and what you share with
   it, to the AI service you chose (Anthropic, OpenAI, OpenRouter, Cloudflare or
-  another one), under that service's own rules. A model that Ollama runs on
-  your Mac gets them there. Your key is in your Mac's Keychain, and a chat is
-  kept nowhere: it is gone with **New Chat**, and when Firethoughts quits.
+  another one). A model that Ollama runs on your Mac gets them there. Your key
+  is in your Mac's Keychain. Firethoughts keeps no chat: **New Chat** or
+  quitting forgets it. What the service keeps is up to its rules.
 - Other AI apps on your Mac (Claude, Claude Code, Codex) can see your notes, or
   change them, only while you allow it in **Settings › AI**. What they see goes
   where those apps send it.
