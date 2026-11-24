@@ -48,13 +48,21 @@ the "Not Opened" message again, and your notes stay where they are.
 
 ## Privacy
 
-- Your notes stay on your Mac, as plain files in Firethoughts' own folder.
-  No account, no cloud, no analytics.
+- Your notes stay on your Mac, as plain files in Firethoughts' own folder,
+  unless you use AI with them. No account, no cloud, no analytics.
 - When you add a link as a card, Firethoughts asks that website for the
   page's title and picture, to show them on the card.
 - About once a day, Firethoughts reads a short list of versions from this page
   on GitHub. It downloads a new version only when you click **Install Update**
   (or if you tick "Automatically download and install updates").
+- The chat, once you set it up, sends what you write, and what you share with
+  it, to the AI service you chose (Anthropic, OpenAI, OpenRouter, Cloudflare or
+  another one), under that service's own rules. A model that Ollama runs on
+  your Mac gets them there. Your key is in your Mac's Keychain, and a chat is
+  kept nowhere: it is gone with **New Chat**, and when Firethoughts quits.
+- Other AI apps on your Mac (Claude, Claude Code, Codex) can see your notes, or
+  change them, only while you allow it in **Settings › AI**. What they see goes
+  where those apps send it.
 
 ## Found a problem?
 
