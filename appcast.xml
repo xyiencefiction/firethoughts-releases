@@ -3,6 +3,18 @@
     <channel>
         <title>Firethoughts</title>
         <item>
+            <title>0.9</title>
+            <pubDate>Wed, 25 Nov 2026 13:53:12 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Chat with an AI inside Firethoughts: use your own key, a model on your Mac, or your own Claude Code or Codex. It stays off until you set it up.
+- Stickers and emoji, picture adjustments, and one toolbar for several things selected at once.
+- Frames you can work inside: click and drag in them, move them by the title, and they grow as you add things.
+]]></description>
+            <enclosure url="https://github.com/xyiencefiction/firethoughts-releases/releases/download/v0.9/Firethoughts-0.9.dmg" length="12836668" type="application/octet-stream" sparkle:edSignature="ebjBWfyN1cLXnUTYCW7Ho+YUsq3RpxoG6XRYzHXJJ2xFmMYPLjd5Hgl+j8isZdYwVxHOUOXak61sPqF+9aCfAw=="/>
+        </item>
+        <item>
             <title>0.8</title>
             <pubDate>Fri, 13 Nov 2026 21:28:05 +0700</pubDate>
             <sparkle:version>5</sparkle:version>
